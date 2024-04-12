@@ -1,0 +1,11 @@
+# TestCaseRelationDto
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Id** | **int64** |  | [optional] [default to null]
+**Target** | [***IdAndNameOnlyDto**](IdAndNameOnlyDto.md) |  | [default to null]
+**Type_** | [***TestCaseRelationTypeDto**](TestCaseRelationTypeDto.md) |  | [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
